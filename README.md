@@ -1,6 +1,5 @@
 # 🏛️ AI-Based Legal Research and Case Similarity Engine
 
-> **Problem ID:** SIH1701 | **Domain:** Artificial Intelligence / Legal Tech
 
 A comprehensive, production-ready AI-powered platform that helps lawyers, judges, and legal researchers quickly find relevant case laws, precedents, and legal documents by analyzing case similarity and legal context.
 
